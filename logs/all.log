@@ -1,0 +1,72 @@
+2022--07--18 13:49:48:4948 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 13:50:58:5058 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 13:50:58:5058 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 13:51:20:5120 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 13:51:20:5120 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 13:51:58:5158 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 13:51:58:5158 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 13:52:05:525 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 13:52:05:525 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 13:52:09:529 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 13:52:09:529 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 13:52:14:5214 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 13:52:14:5214 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 13:52:36:5236 - [31merror[39m: [31mNao foi possivel a conexao! Erro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.g5tfc.mongodb.net[39m
+2022--07--18 13:52:36:5236 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 13:52:45:5245 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 13:52:45:5245 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 13:53:50:5350 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 13:53:50:5350 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 13:54:31:5431 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 13:54:31:5431 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 13:55:17:5517 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 13:55:17:5517 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 13:55:27:5527 - [31merror[39m: [31mNao foi possivel a conexao! Erro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.g5tfc.mongodb.net[39m
+2022--07--18 13:55:33:5533 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 13:55:33:5533 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 13:55:43:5543 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 13:55:43:5543 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 13:56:13:5613 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 13:56:13:5613 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:03:21:321 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:03:21:321 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:04:20:420 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:04:20:420 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:04:36:436 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:04:36:436 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:05:26:526 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:05:26:526 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:06:02:62 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:06:02:62 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:06:23:623 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:06:23:623 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:07:50:750 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:07:50:750 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:10:40:1040 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:10:40:1040 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:12:07:127 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:12:07:127 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:21:20:2120 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:21:20:2120 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:23:43:2343 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:23:43:2343 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:28:56:2856 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:28:56:2856 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:29:10:2910 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:29:10:2910 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:29:28:2928 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:29:28:2928 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:29:59:2959 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:29:59:2959 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:30:35:3035 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:30:35:3035 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:30:41:3041 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:30:41:3041 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:51:49:5149 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:51:49:5149 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:52:09:529 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:52:09:529 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 14:57:08:578 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 14:57:08:578 - [32minfo[39m: [32mapp rodando na porta 3000[39m
+2022--07--18 15:01:18:118 - [32minfo[39m: [32mbanco conectado[39m
+2022--07--18 15:01:18:118 - [32minfo[39m: [32mapp rodando na porta 3000[39m
