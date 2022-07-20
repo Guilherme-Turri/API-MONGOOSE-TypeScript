@@ -9,3 +9,18 @@
 2022--07--18 15:56:55:5655 - [31merror[39m: [31mErro no sistem: Cast to ObjectId failed for value "2d5a668f427488b50fb80e" (type string) at path "_id" for model "Movie"[39m
 2022--07--18 15:57:23:5723 - [31merror[39m: [31mErro no sistem: Cast to ObjectId failed for value "62d5992c5797adb35cca8fa" (type string) at path "_id" for model "Movie"[39m
 2022--07--19 15:35:46:3546 - [31merror[39m: [31mErro no sistem: Cannot read properties of undefined (reading 'params')[39m
+2022--07--20 13:39:55:3955 - [31merror[39m: [31mErro no sistem: Cast to ObjectId failed for value "4848" (type string) at path "_id" for model "Movie"[39m
+2022--07--20 13:41:45:4145 - [31merror[39m: [31mErro no sistem: Cannot read properties of undefined (reading 'id')[39m
+2022--07--20 13:41:56:4156 - [31merror[39m: [31mErro no sistem: Cannot read properties of undefined (reading 'id')[39m
+2022--07--20 13:42:18:4218 - [31merror[39m: [31mErro no sistem: Cannot read properties of undefined (reading 'id')[39m
+2022--07--20 13:42:30:4230 - [31merror[39m: [31mErro no sistem: Cannot read properties of undefined (reading 'id')[39m
+2022--07--20 13:42:34:4234 - [31merror[39m: [31mErro no sistem: Cannot read properties of undefined (reading 'id')[39m
+2022--07--20 13:42:57:4257 - [31merror[39m: [31mErro no sistem: Cannot read properties of undefined (reading 'id')[39m
+2022--07--20 13:43:14:4314 - [31merror[39m: [31mErro no sistem: Cannot read properties of undefined (reading 'id')[39m
+2022--07--20 13:44:20:4420 - [31merror[39m: [31mErro no sistem: Cannot read properties of undefined (reading 'id')[39m
+2022--07--20 13:44:29:4429 - [31merror[39m: [31mErro no sistem: Cannot read properties of undefined (reading 'id')[39m
+2022--07--20 13:45:09:459 - [31merror[39m: [31mErro no sistem: Cannot read properties of undefined (reading 'id')[39m
+2022--07--20 13:53:56:5356 - [31merror[39m: [31mErro no sistem: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022--07--20 13:55:02:552 - [31merror[39m: [31mErro no sistem: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022--07--20 13:56:45:5645 - [31merror[39m: [31mErro no sistem: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022--07--20 13:57:34:5734 - [31merror[39m: [31mErro no sistem: Performing an update on the path '_id' would modify the immutable field '_id'[39m

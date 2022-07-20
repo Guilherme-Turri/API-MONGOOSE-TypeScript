@@ -4,6 +4,7 @@ import {
   findMovieById,
   getAllMovies,
   removeMovie,
+  updateMovice,
 } from './Controllers/movieControllers';
 import { movieCreteValidation } from './middleware/movieValidation';
 
@@ -19,4 +20,5 @@ export default router
   .post('/movie', movieCreteValidation(), validate, createMovie)
   .get('/movie/:id', findMovieById)
   .get('/movie', getAllMovies)
-  .delete('/movie/:id', removeMovie);
+  .delete('/movie/:id', removeMovie)
+  .patch('/movie/:id', updateMovice);
